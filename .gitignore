@@ -1,0 +1,8 @@
+// ficheros que no querio que se suban a git
+
+.vscode
+.DS_Store  //mac
+
+//carpetas y ficheros:
+ejercicio.ipnyb
+image/
